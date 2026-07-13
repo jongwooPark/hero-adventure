@@ -1,0 +1,8 @@
+# GitHub에 올리지 않는 항목 (내 PC에만 두는 것들)
+.vercel
+.env*
+node_modules/
+
+# 작업 도구 폴더
+.claude/
+.omc/
