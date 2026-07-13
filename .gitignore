@@ -1,0 +1,5 @@
+# 배포 도구가 자동으로 만드는 폴더 (인터넷에 올릴 필요 없는 파일들)
+node_modules/
+.vercel/
+.DS_Store
+Thumbs.db
